@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/memorixassembler",
+  "packageVersion": "1.1.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/memorixassembler",
+  "usageRepository": "https://github.com/x12i-sdk/memorixassembler",
+  "sourceRepository": null,
+  "sourceCommit": null,
+  "sourcePackageDirectory": null,
+  "example": {
+    "title": "Resolve an identity query with the historical assembler package",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:24:36.649711+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "2f0e7c6e7e162a5e9f43a931eb8e0ee8c80a267f469bb8edc7a4ead926e18e58",
+    "manifestSha256": "217a65e3d3b601cb23bc43ed4529493ffd1a807a5acadec561b4f221a7f13ff8"
+  },
+  "validationFiles": {
+    "src/index.mjs": "2f0e7c6e7e162a5e9f43a931eb8e0ee8c80a267f469bb8edc7a4ead926e18e58"
+  }
+}
